@@ -1,0 +1,6 @@
+.styles{
+    background:"#2B293C"
+}
+.styles:hover{
+    background: blue;
+}
